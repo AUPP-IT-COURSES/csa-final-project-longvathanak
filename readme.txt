@@ -1,8 +1,37 @@
-Upload your final project files to this repo, commit the necessary changes directly here or clone it to your local machine IDE then push the updated version back the cloud of github. With the second choice, you may need to follow the following steps:
+Enhanced To-Do List App
 
-step 1: accept the lab invitation you received, it will take you to the GitHub Classroom lab.
-step 2: you will see a repository link form the lab assingment page, click on the link to open the respository on GitHub
-step 3: clone the repo to your local manchine alternatively, you can create a new branch in the repo, or close to local machine or create a new branch on github.
-step 4: create of modify the necessary files to complete the lab assingment.
-step 5: after making changes, add, and commit then to your local repo and also push to the remote repo.
+Description
+The Enhanced To-Do List App is a simple task management application built using the Tkinter library in Python. It provides a user-friendly interface for adding, deleting, and managing tasks with additional features like task details, saving/loading tasks, and more.
 
+Features
+Add Task: Enter a task, select its priority, and set a due date. Click "Add Task" to add it to the list.
+
+Task Details: View detailed information about a task, mark it as completed, and delete it.
+
+Delete Task: Remove a task from the list. A confirmation dialog is displayed to prevent accidental deletions.
+
+Save and Load Tasks: Save tasks to a JSON file and load them back. This allows users to persist their tasks between sessions.
+
+Usage
+Adding a Task:
+
+Enter the task details in the provided fields.
+Click the "Add Task" button.
+Viewing Task Details:
+
+Click on a task in the list.
+The task details window will open, displaying additional information.
+Marking a Task as Completed:
+
+Open the task details window.
+Click the "Mark as Completed" button.
+Deleting a Task:
+
+Select a task in the list.
+Click the "Delete Task" button. Confirm the deletion if prompted.
+Saving and Loading Tasks:
+
+Use the "Save Tasks" button to save tasks to a JSON file.
+Use the "Load Tasks" button to load tasks from a saved JSON file.
+Contributing
+Contributions are welcome! If you have any suggestions, bug reports, or improvements, please open an issue or create a pull request.
